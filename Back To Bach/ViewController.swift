@@ -2,14 +2,14 @@
 //  ViewController.swift
 //  Back To Bach
 //
-//  Created by Pranav Neyveli on 8/15/2017, with the help of Robert Percival who was instrumental to teaching me the course .
+//  Created by Pranav Neyveli on 8/15/2017, with the help of Robert Percival who was instrumental to teaching me the course on udemy.
 //
 //
 
 import UIKit
 import AVFoundation
 
-// default class 
+// default class
 
 class ViewController: UIViewController {
     
